@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67c1b672-b3e8-464a-9426-b7481fb86fcc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WvrZdCch56H4puxd3HxUMagfz3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.MobileTest">
+    <configuration name="C:/Users/Branimir/IdeaProjects/MTTPP-Projekt/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MTTPP-Projekt" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MTTPP-Projekt" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MobileTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MobileTest" />
+        <item itemvalue="TestNG.C:/Users/Branimir/IdeaProjects/MTTPP-Projekt/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67c1b672-b3e8-464a-9426-b7481fb86fcc" name="Default Changelist" comment="" />
+      <created>1580040965929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580040965929</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="439" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580041182912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="439" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1580041182912" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1580076286092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580076286092" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1580076286092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580076286092" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1580076286090">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580076286090" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1580076286092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580076286092" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580078489051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580078489051" />
+    <state x="65" y="60" key="new project wizard" timestamp="1580066320101">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="60" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580066320101" />
+  </component>
+</project>
